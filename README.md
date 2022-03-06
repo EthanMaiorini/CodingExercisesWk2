@@ -1,4 +1,4 @@
-# CodingExercisesWk2
+everse an array of objects of type Xaction# CodingExercisesWk2
 a group coding exercise
 
 Do this in either Java or Python. Your choice.
